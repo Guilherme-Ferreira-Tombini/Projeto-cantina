@@ -1,5 +1,6 @@
 # EAP
-* Criar vendas entre cliente e produtos.
+* Criar a funcionalidade de recuperar acesso.
+* Criar paginas de gerenciamento dos produtos.
 * Criar tabela de produtos no banco de dados.
-* Criar a divisão dos usuários entre cliente e administradores.
-* Exibir produtos com status positivos e negativos para usuários e administrador respectivamente.
+* Criar a divisão dos usuários entre usuários clientes e administrador.
+* Exibir todos os produtos.""

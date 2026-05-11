@@ -7,7 +7,7 @@ A Cantina Estudantil é um software baseado no uso da tecnologia para tornar mai
 
 
 ## Problema
-O aumento significativo no número de alunos, especialmente no início do ano letivo, gera um fluxo intenso nas cantinas universitárias. Esse cenário é ainda mais evidente com a chegada de estudantes de outras cidades, o que contribui para o crescimento da demanda em um curto período de tempo. Como consequência, formam-se longas filas, há demora no atendimento e, em alguns casos, alunos acabam não conseguindo adquirir seus alimentos dentro do tempo disponível.
+O aumento significativo no número de alunos, especialmente no início do ano letivo, gera um fluxo intenso nas cantinas universitárias. Esse cenário é ainda mais evidente com a chegada de estudantes de outras cidades, o que contribui para o crescimento da demanda em um curto período de tempo.
 
 
 ## Stakeholders (Interessados)
@@ -32,13 +32,11 @@ Usuário 2: Funcionário da cantina
 * Necessidade: organizar vendas e controlar estoque.
 
 ## Visão do Produto
-A Cantina Estudantil é um software que processa pedidos, afim de organizar e agilizar o processo da cantina. 
+A Cantina Estudantil é um software auxilia no gerenciamento de produtos, afim de organizar e agilizar o processo da cantina. 
 
 
 ## Funcionalidades principais
-* Gerenciar pedidos;
-* Gerenciar cardápios;
-* Gerenciar pagamentos;
+* Gerenciar lanches/bebidas;
 * Gerenciar notificações;
 * Gerenciar produtos mais vendidos.
 
