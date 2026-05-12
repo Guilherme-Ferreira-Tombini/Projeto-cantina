@@ -1,0 +1,11 @@
+# Historias Usuário
+- Como administrador do sistema, quero gerenciar os produtos para manter o estoque de lanches e bebidas da cantina.
+- Como administrador do sistema, quero conseguir acessar de maneira rapida os produtos que estão disponiveis e quais estão em falta, para assim eu notificar meus clientes.
+- Como administrador do sistema, quero que de para colocar fotos dos lanches e bebidas para eu e meus clientes conseguirem identificar mais facilmente os produtos.
+- Como administrador do sistema, quero que de para gerenciar os pedidos de lanches e bebidas dos clientes.
+- Como administrador do sistema, quero ter uma forma de gerar relatório de vendas por mes e ano.
+- Como administrador do sistema, quero receber alertas de estoque baixo para repor produtos antes que acabem.
+- Como administrador do sistema, quero acessar meu histórico de pedidos para consultar compras anteriores.
+- Como administrador do sistema, quero separar os produtos por categoria para encontrar itens rapidamente.
+- Como administrador do sistema, quero visualizar os produtos mais vendidos para melhorar o planejamento do estoque.
+- Como administrador do sistema, quero salvar meus dados de cadastro para não precisar preenchê-los novamente em novas compras.
