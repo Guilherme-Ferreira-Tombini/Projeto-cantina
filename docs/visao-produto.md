@@ -22,14 +22,14 @@ O aumento significativo no número de alunos, especialmente no início do ano le
 Usuário 1: Alunos e Funcionários da unidade universitária
 * Idade: 17 a 60 anos.
 * Conhecimento: básico em celular ou computador.
-* Objetivo: comprar lanche de forma rápida.
-* Necessidade: evitar filas e pagar fácil.
+* Objetivo: identificar e comprar o lanche de maneira rápida.
+* Necessidade: evitar filas.
 
 Usuário 2: Funcionário da cantina
 * Idade: variável.
 * Conhecimento: intermediário.
 * Objetivo: gerenciar pedidos e estoque de produtos.
-* Necessidade: organizar vendas e controlar estoque.
+* Necessidade: organizar vendas e controle de estoque.
 
 ## Visão do Produto
 A Cantina Estudantil é um software auxilia no gerenciamento de produtos, afim de organizar e agilizar o processo da cantina. 
